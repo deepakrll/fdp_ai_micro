@@ -1,0 +1,101 @@
+Country,AMR_Rate,Pathogen,Drug_Class,Year
+Mexico,37.45,Klebsiella,Macrolides,2024
+Brazil,95.07,Klebsiella,Penicillins,2016
+Russia,73.2,Pseudomonas,Penicillins,2010
+South Africa,59.87,Pseudomonas,Macrolides,2013
+Italy,15.6,Staphylococcus,Macrolides,2022
+China,15.6,Klebsiella,Carbapenems,2013
+United Kingdom,5.81,Staphylococcus,Penicillins,2023
+Canada,86.62,Staphylococcus,Macrolides,2014
+South Africa,60.11,Acinetobacter,Fluoroquinolones,2016
+Russia,70.81,Klebsiella,Penicillins,2016
+China,2.06,Klebsiella,Fluoroquinolones,2022
+United Kingdom,96.99,Pseudomonas,Fluoroquinolones,2024
+South Korea,83.24,Pseudomonas,Cephalosporins,2020
+Italy,21.23,Klebsiella,Fluoroquinolones,2022
+Germany,18.18,Staphylococcus,Fluoroquinolones,2013
+United States,18.34,Staphylococcus,Macrolides,2022
+Russia,30.42,Klebsiella,Carbapenems,2016
+United Kingdom,52.48,Klebsiella,Macrolides,2020
+United States,43.19,Acinetobacter,Penicillins,2012
+United States,29.12,Klebsiella,Carbapenems,2015
+Italy,61.19,Pseudomonas,Macrolides,2021
+Russia,13.95,Pseudomonas,Fluoroquinolones,2011
+Japan,29.21,E. coli,Macrolides,2019
+Canada,36.64,Staphylococcus,Fluoroquinolones,2022
+Mexico,45.61,Acinetobacter,Fluoroquinolones,2023
+United Kingdom,78.52,E. coli,Cephalosporins,2018
+Italy,19.97,E. coli,Cephalosporins,2014
+Russia,51.42,Acinetobacter,Macrolides,2015
+South Korea,59.24,Pseudomonas,Carbapenems,2021
+South Africa,4.65,Acinetobacter,Cephalosporins,2021
+Japan,60.75,E. coli,Macrolides,2021
+United States,17.05,Acinetobacter,Carbapenems,2021
+China,6.51,E. coli,Macrolides,2013
+Australia,94.89,Klebsiella,Fluoroquinolones,2023
+China,96.56,Pseudomonas,Macrolides,2023
+Mexico,80.84,Acinetobacter,Carbapenems,2020
+Japan,30.46,E. coli,Cephalosporins,2019
+Italy,9.77,E. coli,Penicillins,2016
+France,68.42,Pseudomonas,Penicillins,2021
+United States,44.02,Pseudomonas,Carbapenems,2018
+India,12.2,Klebsiella,Macrolides,2016
+France,49.52,Pseudomonas,Penicillins,2023
+Italy,3.44,Pseudomonas,Carbapenems,2010
+Germany,90.93,Acinetobacter,Penicillins,2010
+India,25.88,Staphylococcus,Fluoroquinolones,2018
+Italy,66.25,Klebsiella,Fluoroquinolones,2020
+Australia,31.17,Acinetobacter,Fluoroquinolones,2023
+Russia,52.01,E. coli,Fluoroquinolones,2018
+South Korea,54.67,Acinetobacter,Penicillins,2013
+Brazil,18.49,Pseudomonas,Penicillins,2022
+Germany,96.96,E. coli,Carbapenems,2018
+Mexico,77.51,Acinetobacter,Carbapenems,2012
+Australia,93.95,Pseudomonas,Carbapenems,2016
+Australia,89.48,Klebsiella,Penicillins,2015
+China,59.79,Klebsiella,Carbapenems,2017
+Germany,92.19,Staphylococcus,Penicillins,2020
+India,8.85,Staphylococcus,Carbapenems,2018
+United Kingdom,19.6,Acinetobacter,Cephalosporins,2023
+Russia,4.52,E. coli,Penicillins,2014
+South Africa,32.53,Klebsiella,Cephalosporins,2010
+China,38.87,Staphylococcus,Carbapenems,2012
+United States,27.13,Klebsiella,Penicillins,2019
+South Korea,82.87,Acinetobacter,Cephalosporins,2021
+United States,35.68,Acinetobacter,Fluoroquinolones,2017
+United States,28.09,E. coli,Fluoroquinolones,2024
+Italy,54.27,E. coli,Macrolides,2020
+Germany,14.09,Acinetobacter,Cephalosporins,2015
+Mexico,80.22,E. coli,Fluoroquinolones,2017
+Canada,7.46,Pseudomonas,Fluoroquinolones,2018
+Italy,98.69,Acinetobacter,Cephalosporins,2013
+Japan,77.22,Pseudomonas,Macrolides,2010
+Japan,19.87,Klebsiella,Fluoroquinolones,2023
+Japan,0.55,Klebsiella,Cephalosporins,2010
+India,81.55,Pseudomonas,Cephalosporins,2019
+Germany,70.69,Pseudomonas,Macrolides,2013
+Russia,72.9,E. coli,Fluoroquinolones,2021
+United States,77.13,Klebsiella,Carbapenems,2023
+Brazil,7.4,Acinetobacter,Penicillins,2016
+United States,35.85,Acinetobacter,Cephalosporins,2011
+Australia,11.59,E. coli,Fluoroquinolones,2012
+Germany,86.31,E. coli,Fluoroquinolones,2010
+Brazil,62.33,E. coli,Carbapenems,2014
+Canada,33.09,E. coli,Cephalosporins,2010
+South Africa,6.36,Klebsiella,Macrolides,2017
+Germany,31.1,Acinetobacter,Macrolides,2010
+Mexico,32.52,Pseudomonas,Cephalosporins,2020
+Mexico,72.96,Pseudomonas,Fluoroquinolones,2010
+France,63.76,Pseudomonas,Cephalosporins,2011
+India,88.72,E. coli,Macrolides,2011
+United Kingdom,47.22,E. coli,Penicillins,2021
+India,11.96,E. coli,Penicillins,2015
+Australia,71.32,Staphylococcus,Penicillins,2016
+South Africa,76.08,Klebsiella,Carbapenems,2014
+Germany,56.13,Pseudomonas,Carbapenems,2010
+United States,77.1,Acinetobacter,Carbapenems,2010
+Russia,49.38,Klebsiella,Cephalosporins,2012
+United Kingdom,52.27,Klebsiella,Penicillins,2023
+India,42.75,Acinetobacter,Fluoroquinolones,2011
+United Kingdom,2.54,Klebsiella,Macrolides,2014
+Russia,10.79,Klebsiella,Carbapenems,2021
